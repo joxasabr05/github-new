@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(
+      280deg,
+      rgb(10, 45, 143),
+      rgb(78, 20, 90),
+      90%,
+      rgba(60, 255, 0, 0.493)
+    )
+    no-repeat;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #05a73b;
+  padding: 100px 0 0;
+}
